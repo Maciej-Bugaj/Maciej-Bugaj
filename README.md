@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maciej-Bugaj
+- 👀 I’m interested in cryptocurrencies, numismatics, programming and a bit of economy
+- 🌱 I’m currently learning software testing
